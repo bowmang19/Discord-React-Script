@@ -1,7 +1,7 @@
 # Discord-React-Script
 Script to automatically react to a user's message if it contains any specified keywords.
 
-## Requirements
+## .env File
 You need a .env file with the following:
 * Discord Token
 * Emoji ID
@@ -9,3 +9,7 @@ You need a .env file with the following:
 * Channel Name
 * Username
 * Content
+
+## Requirements
+* pip3 install termcolor
+* pip3 install python-dotenv
