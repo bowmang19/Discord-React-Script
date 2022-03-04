@@ -11,5 +11,5 @@ You need a .env file with the following:
 * Content
 
 ## Requirements
-* pip3 install termcolor
+* python3 -m pip install -U discord.py
 * pip3 install python-dotenv
